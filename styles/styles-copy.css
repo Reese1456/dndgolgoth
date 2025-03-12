@@ -9,7 +9,7 @@ body {
     padding: 0;
     margin: 0;
     background-color: var(--dark-red);
-    background-image: url(/images/vertical-parchment.png);
+    background-image: url(../images/vertical-parchment.png);
     background-repeat: repeat-y;
     background-position: center top;
     background-size: 95%;
