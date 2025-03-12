@@ -3,6 +3,7 @@
     --dark-red: #E00007;
     --text-light: #FFFAE4;
     --text-dark: #000000;
+    --oldchool-red: #8b0000;
 }
   
 body {
@@ -32,6 +33,15 @@ h3 {
 
 .main-content {
     color: var(--text-dark);
+}
+
+hr {
+    height: 2px;
+    color: var(--oldchool-red);
+    background-color: var(--oldchool-red);
+    border: none;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 /*----- Header -----*/
